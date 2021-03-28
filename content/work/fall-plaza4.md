@@ -14,7 +14,7 @@ images: ['https://source.unsplash.com/random/400x600/?nature',
 その工程　どれだけ価値を生み出していますか？ 作業のムダ、動作のムダの見える化
 
 
-[生産性改善TOOL](http://3.113.32.159/)
+[生産性改善TOOL](https://mis-labo1.vercel.app/)
 
 
 ---
