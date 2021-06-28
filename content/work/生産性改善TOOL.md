@@ -1,5 +1,6 @@
 # 生産性改善TOOL
 
+[tips](https://mis-labo-doc.vercel.app/)
 
 # あああああ
 

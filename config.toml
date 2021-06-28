@@ -21,6 +21,12 @@ theme = "hugo-hero-theme"
 
 
 [[menu.main]]
+	name = "LINK"
+	url = "https://mis-labo-doc.vercel.app/"
+    weight = 1
+
+
+[[menu.main]]
 	name = "Kintone"
 	url = "/kintone/"
     weight = 1
